@@ -1,5 +1,5 @@
 # .. This routine simulates a single serial culture experiment. It is intended to be 
-# .. called by a script 'single_timeseries_X.R'
+# .. called by the script 'main_antimut.R'
 
 threshold=1
 
