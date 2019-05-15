@@ -9,7 +9,7 @@ The output is a figure with two panels. The first panel shows the invasion dynam
 
 GENOME ANALYSES:
 
-The file named "grantham.py" contains the basic code used to compute the Grantham score for all of the possible substitutions per codon in a bacterial genomes. In this example, the code is applied to the genome of Escherichia coli K12 ("EcK12.fasta", retrieved from www.genoscope.cns.fr). The per codon Grantham scores are grouped to produce the average protein-disrupting effect of base substitutions elevated in 3 prominent types of mutators, as discussed in the text. To run the model, execute the source file "grantham.py" in any Python interpreter (e.g. bash console in Linux), such as:
+The file named "grantham.py" contains the basic code used to compute the Grantham score for all of the possible substitutions per codon in a bacterial genome. In this example, the code is applied to the genome of Escherichia coli K12 ("EcK12.fasta", retrieved from www.genoscope.cns.fr). The per codon Grantham scores are grouped to produce the average protein-disrupting effect of base substitutions elevated in 3 prominent types of mutators, as discussed in the text. To run the model, execute the source file "grantham.py" in any Python interpreter (e.g. bash console in Linux), such as:
 
 > python grantham.py 
 
